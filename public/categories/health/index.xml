@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Health on Slowlane</title>
+    <link>http://localhost:1313/categories/health/</link>
+    <description>Recent content in Health on Slowlane</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Feb 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/health/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sleep apnea and sonomed</title>
+      <link>http://localhost:1313/post/sleep-apnoea-and-sonomed/</link>
+      <pubDate>Tue, 28 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/sleep-apnoea-and-sonomed/</guid>
+      <description>This article from the BBC describes a sleeping pattern involving two sleeps of about 4 hours with a period of wakefulness in between, known as segmented sleep. It seems there is evidence that this was the normal sleep pattern until the night was pushed back by street lighting at the end of the 16th century.&#xA;During this waking period people were quite active. They often got up, went to the toilet or smoked tobacco and some even visited neighbours.</description>
+    </item>
+    <item>
+      <title>Whats lurking under the lid</title>
+      <link>http://localhost:1313/post/lurking-under-the-lid/</link>
+      <pubDate>Sun, 10 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/lurking-under-the-lid/</guid>
+      <description>Many of us have been aware of many of the dangers associated with processed foods and the artificial chemicals introduced by the food industry for some time. I was reminded of the horror story again recent after reading Michael Pollans excellent book In Defence of Food.&#xA;The book starts with a blistering criticism of &amp;ldquo;nutritionism&amp;rdquo; - his term for the ideology that underlies much of the food marketing and health food industry.</description>
+    </item>
+  </channel>
+</rss>

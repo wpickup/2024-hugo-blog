@@ -1,0 +1,4 @@
+baseURL = 'https://williampickup.org/'
+languageCode = 'en-us'
+title = 'Slowlane'
+theme = 'ananke'

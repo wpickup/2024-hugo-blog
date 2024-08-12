@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on Slowlane</title>
+    <link>http://localhost:1313/categories/design/</link>
+    <description>Recent content in Design on Slowlane</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Mar 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Information Visualisation and Web Science</title>
+      <link>http://localhost:1313/post/web-science-posters/</link>
+      <pubDate>Tue, 19 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/web-science-posters/</guid>
+      <description>Very interesting diagrams to see at the Web Science Industry Forum Poster Session via Mark Bernstein&#xA;Mark Bernstein, the author of the Tinderbox platform is also a scientist who studies hypertext.&#xA;His recent post contains a link to numerous web science posters developed at various universities.&#xA;Lots of graphic design inspiration to be found here.</description>
+    </item>
+    <item>
+      <title>Visualisation techniques</title>
+      <link>http://localhost:1313/post/visualisation-techniques/</link>
+      <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/visualisation-techniques/</guid>
+      <description>This is interesting, an interactive compilation of data visualisation techniques.&#xA;Quite a few here I didn&amp;rsquo;t recognise. Click on the image to load the full diagram then hover over each cell for an example.&#xA;Via MacSparky</description>
+    </item>
+    <item>
+      <title>Ode to invention, Maira Kalman</title>
+      <link>http://localhost:1313/post/maria-kalman/</link>
+      <pubDate>Tue, 08 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/maria-kalman/</guid>
+      <description>Steve Zeoli posted a link to the work of Maira Kalman in the NY Times today, in this case an enlightening graphic celebration of the inventiveness of Benjamin Franklin. This post was part of a series - &amp;ldquo;The Pursuit of Happiness (2009)&amp;rdquo; - a year long exploration of American History and democracy beginning with a story on the inauguration of Barack Obama.&#xA;Here is the NY Times article -&amp;gt; Can Do</description>
+    </item>
+    <item>
+      <title>Understanding the global money markets</title>
+      <link>http://localhost:1313/post/understanding-global-money-movements/</link>
+      <pubDate>Mon, 21 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/understanding-global-money-movements/</guid>
+      <description>There is a visually striking and information rich diagram from the BBC showing how the Euro countries are indebted to each&#xA;Also check out this incredible graphic from xkcd</description>
+    </item>
+    <item>
+      <title>Chilly chook</title>
+      <link>http://localhost:1313/post/chilly-chook/</link>
+      <pubDate>Mon, 16 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/chilly-chook/</guid>
+      <description>While browsing the website of designer Zach Debord (found via a Make RSS post) I came across this great picture of a chook in the snow with a jumper on, she looks very cosy. Head over to their site to see more of these pictures in a slideshow.&#xA;Their blog has quite a few posts about their chickens and burgeoning interest in Permaculture.&#xA;Worth a look.&#xA;For the those with a technical bent Zach&amp;rsquo;s beam robots are stunning works that merge art and electronics.</description>
+    </item>
+  </channel>
+</rss>

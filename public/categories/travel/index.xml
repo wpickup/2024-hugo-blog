@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Travel on Slowlane</title>
+    <link>http://localhost:1313/categories/travel/</link>
+    <description>Recent content in Travel on Slowlane</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/travel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ceramic Destinations in Tokyo</title>
+      <link>http://localhost:1313/post/ceramics-destinations-in-tokyo/</link>
+      <pubDate>Wed, 17 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/ceramics-destinations-in-tokyo/</guid>
+      <description>The most popular post on Slowlane has been Ceramics Destinations in Kyoto, this post seeks to provide the same information for a Tokyo visitor.&#xA;Mingeikan Also known as the Japan Folk Crafts Museum. Soetsu Yanagi 1 created this museum to display his collection of mingei items (daily necessities made by common people using local materials)It displays a collection of mingei pottery, textiles and lacquer ware. Feature exhibitions are also held regularly.</description>
+    </item>
+    <item>
+      <title>Ceramics Destinations in Kyoto</title>
+      <link>http://localhost:1313/post/ceramics-destinations-in-kyoto/</link>
+      <pubDate>Sun, 21 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/ceramics-destinations-in-kyoto/</guid>
+      <description>The following are worth considering if you are in Kyoto and interested in Ceramics.&#xA;Kawai Kanjiros&amp;rsquo; House We have visited this beautiful old merchants house with its huge climbing kiln several times and always found it rewarding. The enormous climbing kiln and beautifully preserved house are worth spending some time exploring.&#xA;Kawai Kanjiro was a key player in Soetsu Yanangi&amp;rsquo;s &amp;ldquo;Mingei&amp;rdquo; movement1 in partnership Shoji Hamada, Kenichi Tomimoto and Bernard Leach.</description>
+    </item>
+    <item>
+      <title>Fairfield Horseshoe</title>
+      <link>http://localhost:1313/post/fairfield-horseshoe/</link>
+      <pubDate>Fri, 13 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/fairfield-horseshoe/</guid>
+      <description>We had a long and rewarding day walking the Fairfield Horseshoe in the hills around Ambleside. It was mid September 2011 and the weather blessed us with clear skies and warm temperatures which added up to fantastic views.&#xA;Flickr gallery</description>
+    </item>
+    <item>
+      <title>Visit to hepburn springs</title>
+      <link>http://localhost:1313/post/hepburn-springs/</link>
+      <pubDate>Sun, 22 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/hepburn-springs/</guid>
+      <description>We&amp;rsquo;re just back from a few days at Hepburn Springs in the Victorian Spa country. Its a beautiful area, quite cold at this time of year but still a rewarding place to stay and unwind.&#xA;We wanted to stay in Australia&amp;rsquo;s only Ryokan (a traditional Japanese Inn) - Shizuka. It was extremely peaceful and served beautiful Japanese food, although the futon was starting to feel a bit hard towards the end of our stay!</description>
+    </item>
+  </channel>
+</rss>

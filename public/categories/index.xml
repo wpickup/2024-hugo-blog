@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Slowlane</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Slowlane</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books</title>
+      <link>http://localhost:1313/categories/books/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/books/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Food</title>
+      <link>http://localhost:1313/categories/food/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/food/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poems</title>
+      <link>http://localhost:1313/categories/poems/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/poems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Craft</title>
+      <link>http://localhost:1313/categories/craft/</link>
+      <pubDate>Sat, 20 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/craft/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Earth</title>
+      <link>http://localhost:1313/categories/earth/</link>
+      <pubDate>Fri, 19 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/earth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Permaculture</title>
+      <link>http://localhost:1313/categories/permaculture/</link>
+      <pubDate>Fri, 19 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/permaculture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Travel</title>
+      <link>http://localhost:1313/categories/travel/</link>
+      <pubDate>Wed, 17 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/travel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life</title>
+      <link>http://localhost:1313/categories/life/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>http://localhost:1313/categories/tech/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>http://localhost:1313/categories/music/</link>
+      <pubDate>Sat, 11 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/music/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mind</title>
+      <link>http://localhost:1313/categories/mind/</link>
+      <pubDate>Thu, 02 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/mind/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spirit</title>
+      <link>http://localhost:1313/categories/spirit/</link>
+      <pubDate>Sun, 24 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/spirit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Design</title>
+      <link>http://localhost:1313/categories/design/</link>
+      <pubDate>Tue, 19 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Japan</title>
+      <link>http://localhost:1313/categories/japan/</link>
+      <pubDate>Sun, 21 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/japan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Health</title>
+      <link>http://localhost:1313/categories/health/</link>
+      <pubDate>Tue, 28 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Culture</title>
+      <link>http://localhost:1313/categories/culture/</link>
+      <pubDate>Tue, 14 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/culture/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

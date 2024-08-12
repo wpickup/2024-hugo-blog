@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on Slowlane</title>
+    <link>http://localhost:1313/categories/tech/</link>
+    <description>Recent content in Tech on Slowlane</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Rituals</title>
+      <link>http://localhost:1313/post/daily-rituals/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/daily-rituals/</guid>
+      <description>Great infographic post at infowetrust via the Huffington Post and macademic that shows the daily ritual of interesting historical figures. Smoking, coffee and beer appear frequently.</description>
+    </item>
+    <item>
+      <title>A Vision of the Future</title>
+      <link>http://localhost:1313/post/a-vision-of-the-future/</link>
+      <pubDate>Wed, 26 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/a-vision-of-the-future/</guid>
+      <description>Wolfram at SXSW The link above is to a transcript of Stephen Wolframs SXSW talk, a mind boggling run down of the incredible computational power that his firm of rolling out.&#xA;The potential to harness these capabilities into new types of software is enormous.&#xA;Worth reading right through for a glimpse of the future.</description>
+    </item>
+    <item>
+      <title>Why have Enterprise Architecture</title>
+      <link>http://localhost:1313/post/enterprise-architecture/</link>
+      <pubDate>Mon, 20 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/enterprise-architecture/</guid>
+      <description>Mastering Archimate has worked with T36 in the creation of an excellent video that shows why Enterprise Architecture is important.</description>
+    </item>
+    <item>
+      <title>Models for decision making</title>
+      <link>http://localhost:1313/post/decision-making-models/</link>
+      <pubDate>Thu, 02 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/decision-making-models/</guid>
+      <description>I like this introduction to decision making techniques at Creative Market.&#xA;&amp;ldquo;Some decisions appear to be relatively straight forward until you take a step back and look at the entire picture with a fresh perspective. You may notice that there are a variety of factors that actually impact a choice or decision that you did not notice before.&amp;rdquo;&#xA;The post also features a nice mind map example from Learning Fundamentals focused on personal actions for reducing climate change impacts.</description>
+    </item>
+    <item>
+      <title>Solvay Conference 1911</title>
+      <link>http://localhost:1313/post/solvay-conference/</link>
+      <pubDate>Wed, 20 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/solvay-conference/</guid>
+      <description>Mark Bernstein: Going To Conferences&#xA;Bernstein illustrates his argument by describing the photo below, which brought to my attention that so many these famous scientists were contemporaries.&#xA;There’s a picture in the lobby of the Hotel Metropole in Brussels of the attendees at the first Solvay conference in 1911. Madame Curie is sitting next to Henri Poincaré; they’re both examining a paper and it’s more interesting than the group photo. Behind them, a shockingly young Al Einstein is paying more attention to the photographer.</description>
+    </item>
+    <item>
+      <title>Challenges of creating for the web</title>
+      <link>http://localhost:1313/post/creating-for-the-web/</link>
+      <pubDate>Sun, 18 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/creating-for-the-web/</guid>
+      <description>Hilarious comic at The Oatmeal, thanks to Better Mess for the link.</description>
+    </item>
+    <item>
+      <title>Leaving Octopress</title>
+      <link>http://localhost:1313/post/2012-10-24-leaving-octopress/</link>
+      <pubDate>Wed, 24 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2012-10-24-leaving-octopress/</guid>
+      <description>After some months of not posting due in part to the limitations of Octopress, I have changed buses again. The site is now being built with Rapidweaver and uses the Rapidblog plugin to synch with a blogger account. This allow posting from the Blogger web interface and from IOS blogging apps like Blogsy.</description>
+    </item>
+    <item>
+      <title>Remote posting</title>
+      <link>http://localhost:1313/post/2012-06-04-remote-posting/</link>
+      <pubDate>Mon, 04 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2012-06-04-remote-posting/</guid>
+      <description>This is my first post from my iPad using Diet Coda to edit the Octopress post.&#xA;I have now converted the blog from Wordpress and built a workflow for posting from the iPad.&#xA;Not happy worth the load speed of the header so that will probably go, otherwise I really like the simple template that octopress provides.&#xA;One of the challenges looks to be efficient syncing of the locally generated site up to my web host, I am using a Transmit synch but it takes about 15 minutes even if only one page has changed.</description>
+    </item>
+    <item>
+      <title>How to clean your apps permissions</title>
+      <link>http://localhost:1313/post/clean-app-permissions/</link>
+      <pubDate>Tue, 13 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/clean-app-permissions/</guid>
+      <description>I found quite a few applications that had permission to my gmail and linkedIn accounts that I couldn&amp;rsquo;t remember why I granted.&#xA;Definitely worth the small effort involved.&#xA;Take 2 Minutes to Clean Your Apps Permissions</description>
+    </item>
+    <item>
+      <title>Uncloud local wireless networking</title>
+      <link>http://localhost:1313/post/uncloud/</link>
+      <pubDate>Tue, 21 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/uncloud/</guid>
+      <description>This looks interesting - another useful step towards Internet independence.&#xA;unCloud — It&amp;rsquo;s not that kind.&#xA;(Via creativeapplications)&#xA;Check out Douglas Rushkoff&amp;rsquo;s &amp;ldquo;Life Inc - The Movie&amp;rdquo; to see why this matters then read Program or Be Programmed</description>
+    </item>
+    <item>
+      <title>Solar sinter</title>
+      <link>http://localhost:1313/post/solar-sinter/</link>
+      <pubDate>Tue, 10 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/solar-sinter/</guid>
+      <description>I am amazed by this, its an incredible project that uses sunlight, 3D printing components and sand to produce glass sculptures. Watch the video right through to understand what is happening.&#xA;Markus Kayser - Solar Sinter Project from Markus Kayser on Vimeo. via CreativeApplications.Net Check out the other Best of 2011 Projects on the site as well.</description>
+    </item>
+    <item>
+      <title>Exporting entries from day one to-scrivener-verbum-breviatum</title>
+      <link>http://localhost:1313/post/day-one-to-scrivener/</link>
+      <pubDate>Wed, 04 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/day-one-to-scrivener/</guid>
+      <description>Brilliant - I was just working out how to do this using Tinderbox which is where I plan to archive the entries.&#xA;Exporting Entries from Day One to Scrivener Verbum Breviatum</description>
+    </item>
+    <item>
+      <title>Dark Sky - how it works</title>
+      <link>http://localhost:1313/post/dark-sky/</link>
+      <pubDate>Tue, 29 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/dark-sky/</guid>
+      <description>This post is a fascinating description of the design of Dark Sky.&#xA;I enjoyed the way the development team used a combination of open source tools, publicly available radar data and some clever numerical analysis rendered into a form that allows the iPhone&amp;rsquo;s GPU to be employed. Great read.</description>
+    </item>
+    <item>
+      <title>The future of aviation</title>
+      <link>http://localhost:1313/post/aviation-futures/</link>
+      <pubDate>Tue, 28 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/aviation-futures/</guid>
+      <description>Some fascinating images in the Atlantic article linked below - the long distance air travel proposal may well turn out to be the low carbon future of air transport&#xA;What Might Have Been: The French View The French National Library has a wonderful exhibit of prints from 1910, imagining the wonderful new world of the year 2000.&#xA;Long-distance air travel of the future&#xA;read the full post here&#xA;(Via James Fallows : The Atlantic)</description>
+    </item>
+  </channel>
+</rss>

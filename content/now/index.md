@@ -1,9 +1,11 @@
 ---
 title: "Now"
+type: "page"
 date: 2024-08-11T21:50:31+10:00
 tags: []
 featured_image: ""
 description: ""
+menu: "main"
 ---
 
 <h2>What I’m doing now</h2>

@@ -1,9 +1,11 @@
 ---
 title: "About"
+type: "page"
 date: 2024-08-11T21:50:31+10:00
 tags: []
 featured_image: ""
 description: ""
+menu: "main"
 ---
 I continue to be interested in [music](https://blog.williampickup.org/categories/#music), [alternative lifestyles]() and [technology]() which have been with me since high school in the 1970's.
 
